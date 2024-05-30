@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush&label=Profile%20views&color=0e75b6&style=flat" alt="aayush" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **Data Structre and Algorith**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **ar0671362@gmail.com**
 
