@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Node.js**
+- 🔭 I’m currently working on **STRATA (I Build a web server name strata with this server you can test your API's It is similar to POSTMAN)**
 
 - 🌱 I’m currently learning **MERN STACK**
 
