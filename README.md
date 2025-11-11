@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Aayush — a Full-Stack Developer from India, passionate about turning coffee into code ☕💻</p>
+<p align="left">My name is Aayush  and I'm a  Full-Stack Dev, from India</p>
 
 ###
 
@@ -10,9 +10,8 @@
 
 ###
 
-🚀 I code like I breathe — sometimes fast, sometimes buggy, but always learning!<br>
-💡 Currently exploring Open Source & real-time magic with <strong>Socket.IO</strong><br>
-🎯 Mission: Build apps that solve real problems & leave a digital footprint 🌍<br>
+<p align="left">💻 Full Stack Developer passionate about building scalable, high-performance web applications.<br>📚 Currently exploring: DevOps practices, CI/CD pipelines, and real-time technologies like Socket.IO.<br>🎯 Goals: To architect robust full-stack solutions, contribute to open-source projects, and keep learning cutting-edge tech.</p>
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -44,8 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
@@ -69,6 +66,14 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
@@ -80,16 +85,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/aayush-sharma-roy-30a354242/" target="_blank">
+  <a href="https://www.linkedin.com/in/aayushsharma1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="aayush_roy03" target="_blank">
+  <a href="aayushsharmaroy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="ar0671362@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/aayush_roy03" target="_blank">
+  <a href="https://x.com/unrealaayush" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://linktr.ee/aayush.dev" target="_blank">
@@ -99,8 +104,10 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush-Roy/Aayush-Roy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush-Roy/Aayush-Roy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aayush-Roy/Aayush-Roy/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
