@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer passionate about building scalable, high-performance web applications.<br>📚 Currently exploring: DevOps practices, CI/CD pipelines, and real-time technologies like Socket.IO.<br>🎯 Goals: To architect robust full-stack solutions, contribute to open-source projects, and keep learning cutting-edge tech.</p>
+<p align="left">Hi 👋 I'm Aayush<br><br>I enjoy building full-stack web applications that are fast, scalable, and user-focused. <br>I like turning ideas into real products — from designing clean UI to developing robust backend systems.<br><br>I’m passionate about solving real problems through code and continuously improving my development workflow.<br><br>Currently exploring ways to build production-ready applications with modern architectures, efficient databases, and optimized performance.<br><br>I enjoy learning new technologies, contributing to projects, and collaborating with developers who love building impactful products.<br><br>Always open to collaboration and interesting ideas 🚀</p>
 
 ###
 
@@ -74,6 +74,10 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?logo=apollographql&logoColor=white&style=for-the-badge" height="40" alt="apollographql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
 </div>
 
 ###
